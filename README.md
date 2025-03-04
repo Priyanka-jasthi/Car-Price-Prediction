@@ -4,7 +4,7 @@
 This project predicts the price of cars based on various features like engine type, fuel type, car dimensions, and horsepower. It utilizes machine learning models, including Decision Tree, Random Forest, and Gradient Boosting, with hyperparameter tuning to achieve the best performance.
 
 ## Technologies Used
-- **Python** (pandas, numpy, matplotlib, seaborn, sklearn, shap, joblib)
+- **Python** (pandas, numpy, matplotlib, seaborn, sklearn, joblib)
 - **Machine Learning Models** (DecisionTreeRegressor, RandomForestRegressor, GradientBoostingRegressor)
 - **Streamlit** (for deployment)
 - **Spyder** (for model training)
